@@ -1,4 +1,4 @@
-# Any Router 多账号自动签到
+# Any Router 多账号自动签到1
 
 多平台多账号自动签到，理论上支持所有 NewAPI、OneAPI 平台，目前内置支持 Any Router 与 Agent Router，其它可根据文档进行摸索配置。
 
